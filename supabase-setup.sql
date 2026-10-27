@@ -1,4 +1,3 @@
--- Jahanvi Turns 20: paste all of this into Supabase → SQL Editor → New query → Run.
 -- Anyone with the website link can read notes and add new ones (no sign-in).
 -- Nobody can edit or delete through the website; Jahanvi removes notes in Table Editor.
 
